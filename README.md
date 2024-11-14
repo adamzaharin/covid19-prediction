@@ -9,7 +9,7 @@ lockdowns to prevent the spread of the virus. However, due to lackadaisical atti
 efforts attempted by the governments were jeopardised, thus, predisposing to the wide
 spread of virus and lost of lives.
 ## Data Source
-The dataset used for this project is sourced from the MoH-Malaysia/covid19-public repository, providing official data on the COVID-19 epidemic in Malaysia.
+The dataset used for this project is sourced from the https://github.com/MoH-Malaysia/covid19-public, providing official data on the COVID-19 epidemic in Malaysia.
 ## Project Workflow
 
 ## Architecture
